@@ -1,0 +1,42 @@
+export const mockData = [
+  {
+    id: 1,
+    name: "Aarav Sharma",
+    email: "aarav.sharma@example.com",
+    age: 24,
+    phone: "+91 98765 43210",
+    access: "admin",
+  },
+  {
+    id: 2,
+    name: "Diya Verma",
+    email: "diya.verma@example.com",
+    age: 21,
+    phone: "+91 91234 56789",
+    access: "manager",
+  },
+  {
+    id: 3,
+    name: "Kabir Singh",
+    email: "kabir.singh@example.com",
+    age: 28,
+    phone: "+91 99887 77665",
+    access: "user",
+  },
+  {
+    id: 4,
+    name: "Meera Joshi",
+    email: "meera.joshi@example.com",
+    age: 22,
+    phone: "+91 90909 90909",
+    access: "admin",
+  },
+  {
+    id: 5,
+    name: "Rohan Patel",
+    email: "rohan.patel@example.com",
+    age: 26,
+    phone: "+91 99345 88221",
+    access: "manager",
+  },
+];
