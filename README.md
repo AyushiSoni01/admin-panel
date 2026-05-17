@@ -1,16 +1,57 @@
-# React + Vite
+# Admin Panel Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Admin Panel Dashboard built using React. This application provides an interactive interface for managing and visualizing business data through charts, analytics, and history tracking.
 
-Currently, two official plugins are available:
+## Features
+- Responsive admin dashboard UI
+- Sales analytics charts
+- History/activity tracking section
+- Interactive data visualization
+- Clean and modern design
+- Component-based architecture using ReactJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- ReactJS
+- JavaScript
+- HTML5
+- CSS3
+- Chart Libraries (Chart.js / Recharts)
 
-## React Compiler
+## Dashboard Modules
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Sales Analytics
+- Visual representation of sales data
+- Graphs and charts for better insights
+- Easy monitoring of performance trends
 
-## Expanding the ESLint configuration
+### History Section
+- Displays recent activities and records
+- Helps track updates and transactions
+- Organized table/list format
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### Navigate to the project folder
+```bash
+cd your-repo-name
+```
+
+### Install dependencies
+```bash
+npm install
+```
+
+### Start the development server
+```bash
+npm start
+```
+
+## Author
+
+**Ayushi Soni**  
+CSBS Student | ReactJS Developer | Tech Enthusiast
